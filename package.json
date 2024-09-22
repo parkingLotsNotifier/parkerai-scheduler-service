@@ -1,0 +1,10 @@
+{
+  "name": "parkerai-scheduler-service",
+  "version": "1.0.0",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "amqplib": "^0.8.0",
+    "node-schedule": "^2.0.0"
+  }
+}
